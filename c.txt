@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line is added from local repo
+=======
+This file is created in repo
+>>>>>>> c7be258a925832e62bf93621e5553c30d65a727f
